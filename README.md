@@ -9,7 +9,7 @@ Adjacent Numbers: An algorithm is implemented to calculate and update the adjace
 
 # Installation
 Clone the repository to your local machine using the following command:
-git clone https:
+git clone https: https://github.com/ArmanAtwal/MineSweeper/tree/main
 Open the project in your preferred Java development environment.
 Build and run the project.
 
