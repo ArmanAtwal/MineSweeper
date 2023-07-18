@@ -1,7 +1,6 @@
 /** Created by Arman Atwal
- * Followed a basic online tutorial and expanded it to better understand GUI applications
- * I performed the exercise to understand design and game development, while also understanding basics
- * to design
+ * Expanded upon a basic tutorial discussing the logic, to better understand GUI applications
+ * I performed the exercise to understand design and game development.
  */
 
 import javax.swing.*;
