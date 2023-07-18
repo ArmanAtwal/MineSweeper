@@ -7,7 +7,7 @@ Flagging Functionality: Players can toggle flags on and off, allowing them to ma
 Game Logic: The game's logic recognizes flagged tiles and incorporates them into the gameplay, enhancing player decision-making and strategic gameplay.
 Adjacent Numbers: An algorithm is implemented to calculate and update the adjacent numbers, indicating the number of neighboring bombs. This feature provides players with crucial hints to strategically uncover safe tiles.
 
-#Installation
+# Installation
 Clone the repository to your local machine using the following command:
 git clone https:
 Open the project in your preferred Java development environment.
