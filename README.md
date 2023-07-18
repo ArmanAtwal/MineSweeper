@@ -1,4 +1,7 @@
 # MineSweeper Game
+<img width="616" alt="Screenshot 2023-07-18 at 3 23 13 PM" src="https://github.com/ArmanAtwal/MineSweeper/assets/139921617/291b67b1-16fd-4179-a677-e27188da3bac">
+
+# Description
 This project is a Minesweeper game implemented in Java, featuring a user-friendly GUI and various UI elements to provide an intuitive and visually appealing game interface.
 
 # Features
